@@ -1,0 +1,24 @@
+Prompt 1
+Prompt: Create a 30×30 drawing canvas.
+Response: Initialized the canvas with _.
+
+Prompt 2
+Prompt: Add shape drawing features.
+Response: Added rectangle, line, triangle, and circle drawing functions.
+
+Prompt 3
+Prompt: Add shape deletion.
+Response: Implemented functions to erase shapes from the canvas.
+
+Prompt 4
+Prompt: Add shape modification.
+Response: Enabled moving/resizing shapes by deleting and redrawing them.
+
+Prompt 5
+Prompt: Display the drawing.
+Response: Implemented canvas display function.
+
+Prompt 6
+Prompt: Make the program menu-driven.
+Response: Added menu options for all operations and exit.
+
